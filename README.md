@@ -1,8 +1,5 @@
 # 💳 Credit Risk & Investment Strategy Optimization (Lending Club Data)
 
-> **Work in progress** — Final notebooks and visualizations will be uploaded once the code is fully polished.
-
----
 
 ## 🎯 Project Overview
 
