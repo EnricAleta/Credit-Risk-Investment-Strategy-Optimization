@@ -73,9 +73,9 @@ Real data means real mess. Preprocessing included:
 ---
 
 ## 📁 Repository Structure 
-- `notebooks/` – full modeling code (preprocessing, training, evaluation)
+- `notebooks/` – full modeling code: preprocessing, training, evaluation (Enric Aletà Classification Jupiter Notebook - Python)
 - `data/` – cleaned version of Lending Club dataset (non-confidential)
-- `report/` – slides & business recommendations
+- `report/` – slides & business recommendations (Enric Aletà Classification PDF)
 
 ---
 
